@@ -18,3 +18,5 @@ proyek ini dapat di clone dari github berikut linknya
 
 https://github.com/williamsitumorang/Digital_Perpustakaan
 
+        - database telah dilampirkan di proyek ini dengan nama digital_perpustakan.sql
+        - database bisa di import ke mysql atau bisa juga melalu command php artisan migrate atau php artisan migrate --seed
