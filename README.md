@@ -15,3 +15,6 @@ pada role user saya, saya membuatnya dalam database seeder, dapat dilihat di fil
 Namun, user dapat melakukan daftar (register) dengan role default user, jadi admin tidak bisa membuat akun, akun admin telah di tetapkan
 
 proyek ini dapat di clone dari github berikut linknya
+
+https://github.com/williamsitumorang/Digital_Perpustakaan
+
